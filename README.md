@@ -1,9 +1,13 @@
 # libGDX Spriter Demo (updated)
 
-A lot of the example Spriter repositories are old and I had a hard time making them work with HTML specifically.
-Also, this project includes the [spriter](https://github.com/Trixt0r/spriter) and [gdx-spriter](https://github.com/Trixt0r/gdx-spriter) 
-source code in the core because I wanted to modify a lot of the code.
+A lot of the example Spriter repositories are old and I had a hard time making them work with HTML specifically.  
+This project template was created using  [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
 
+This project includes the [spriter](https://github.com/Trixt0r/spriter) and [gdx-spriter](https://github.com/Trixt0r/gdx-spriter) 
+source code in the core because I wanted to modify a some of the code.  For example:
+- the entire library uses a custom Point class, which I am slowly migrating to libGDX's Vector2 class.
+- the examples used FileHandle.file() which is not supported in HTML/GWT.
+- I renamed the implementation classes.
 
 # Dekstop, HTML, Android tested
 
