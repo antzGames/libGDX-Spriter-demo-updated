@@ -1,8 +1,24 @@
-# libGDXJAM
+# libGDX Spriter Demo (updated)
+
+A lot of the example Spriter repositories are old and I had a hard time making them work with HTML specifically.
+Also, this project includes the [spriter] (https://github.com/Trixt0r/spriter) and [gdx-spriter] (https://github.com/Trixt0r/gdx-spriter) 
+source code in the core because I wanted to modify a lot of the code.
+
+
+# Dekstop, HTML, Android tested
+
+The Spriter demo was tested on Desktop, HTML, and a physical Android device and all worked.
+
+# Project Setup
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
 
 This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+
+- gwtFrameworkVersion=2.8.2
+-  gwtPluginVersion=1.1.18
+-  androidPluginVersion=7.0.4
+-  gdxVersion=1.11.0
 
 ## Gradle
 
