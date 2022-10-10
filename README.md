@@ -1,7 +1,7 @@
 # libGDX Spriter Demo (updated)
 
 A lot of the example Spriter repositories are old and I had a hard time making them work with HTML specifically.
-Also, this project includes the [spriter] (https://github.com/Trixt0r/spriter) and [gdx-spriter] (https://github.com/Trixt0r/gdx-spriter) 
+Also, this project includes the [spriter](https://github.com/Trixt0r/spriter) and [gdx-spriter](https://github.com/Trixt0r/gdx-spriter) 
 source code in the core because I wanted to modify a lot of the code.
 
 
