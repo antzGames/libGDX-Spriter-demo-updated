@@ -9,6 +9,13 @@ source code in the core module because I wanted to modify some of the code.  For
 - the original examples used FileHandle.file() which is not supported in HTML/GWT.
 - renaming the implementation classes.
 
+# TODOS
+
+- replace all references to the Point class
+- Calculator could probably all be replaced by calling MathUtils methods in libGDX
+- Math.cbrt() that may behave better with negative arguments than Math.pow()
+- add tests and more examples
+
 # Dekstop, HTML, Android tested
 
 This new Spriter demo was tested on Desktop, HTML, and a on a physical Android phone and all worked for me.
