@@ -15,7 +15,15 @@ This new Spriter demo was tested on Desktop, HTML, and a on a physical Android p
 
 # Project Setup
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
+This [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
+
+Android Studio IDE details: 
+
+`Android Studio Chipmunk | 2021.2.1 Patch 2`
+
+`Build #AI-212.5712.43.2112.8815526, built on July 10, 2022`
+
+`Runtime version: 11.0.12+7-b1504.28-7817840 amd64`
 
 This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
 
