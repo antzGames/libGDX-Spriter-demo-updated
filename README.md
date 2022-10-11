@@ -13,8 +13,8 @@ source code in the core module because I wanted to modify some of the code.  For
 # TODOS
 
 - replace all references to the Point class
-- Calculator could probably all be replaced by calling MathUtils methods in libGDX
-- Math.cbrt() that may behave better with negative arguments than Math.pow()
+- Calculator class could be replaced by calling MathUtils methods in libGDX
+- Math.cbrt() methods that may behave better with negative arguments than Math.pow()
 - add tests and more examples
 
 # Dekstop, HTML, Android tested
