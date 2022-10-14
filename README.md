@@ -2,6 +2,9 @@
 
 A lot of the example libGDX Spriter repositories are old and I had a hard time making them work in HTML/GWT specifically so I created this repo so that anyone can get a quick Spriter project working in libGDX's GWT/HTML backend.
 
+[![Spriter libGDX 1.11.0 demo](https://img.youtube.com/vi/L3QuWR1dETk/0.jpg)](https://www.youtube.com/watch?v=L3QuWR1dETk)
+
+
 This project template was created using  [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).  It uses gdxVersion 1.11.0.
 
 This project includes the [spriter](https://github.com/Trixt0r/spriter) and [gdx-spriter](https://github.com/Trixt0r/gdx-spriter) 
