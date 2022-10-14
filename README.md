@@ -1,6 +1,8 @@
 # libGDX Spriter Demo (updated)
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L3QuWR1dETk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 A lot of the example libGDX Spriter repositories are old and I had a hard time making them work in HTML/GWT specifically so I created this repo so that anyone can get a quick Spriter project working in libGDX's GWT/HTML backend.
 
